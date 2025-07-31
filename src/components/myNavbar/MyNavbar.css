@@ -1,0 +1,54 @@
+.bg-body-tertiary {
+  background-color: black !important ;
+}
+
+.navbar-nav a {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(180, 171, 171);
+  white-space: nowrap;
+  unicode-bidi: isolate;
+}
+
+.navbar-nav a:hover {
+  color: white;
+  border-bottom: 3px solid rgb(92, 159, 36);
+  transition: border 0.2s ease-in-out;
+}
+
+.prenota {
+  color: white !important;
+  border: 2px solid rgb(92, 159, 36)!important;
+  border-radius: 4px;
+}
+.prenota:hover {
+  background-color:rgb(92, 159, 36);
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: white;
+}
+
+.logo-tenura {
+  width: 170px;
+  height: 40px;
+}
+
+header {
+  position: fixed;
+  z-index: 10;
+}
+
+.dropdown-menu .dropdown-item{
+  border: none;
+  color: black;
+  padding: 10px;
+  padding-left: 15px!important;
+  padding-left: 20px!important;
+}
+
+.dropdown-menu .dropdown-item:hover{
+  color:rgb(92, 159, 36);
+  border-bottom: none;
+}

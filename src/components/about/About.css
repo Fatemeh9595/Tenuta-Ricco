@@ -1,0 +1,25 @@
+.myHeader{
+ font-family: Roboto, sans-serif;
+ font-size:20px ;
+ font-weight:700px ;
+ color:rgb(68, 68, 68);
+ margin-left: 60px ;
+}
+
+.myPara{
+margin-left:60px;
+text-align:justify;
+font-family:Open Sans, sans-serif;
+font-size:16px ;
+font-weight:400px ;
+color:rgb(68, 68, 68) ;
+line-height:24px ;
+}
+
+.myIcons{
+    position:absolute;
+    top:-16px ;
+    color:rgb(92, 159, 36);
+    font-size:48px;
+    float: left;
+}

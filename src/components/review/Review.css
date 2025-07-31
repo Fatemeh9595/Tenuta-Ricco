@@ -1,0 +1,39 @@
+.myReview{
+background-color: rgb(241, 241, 241);
+margin-bottom: 50px;
+}
+
+.myIcon{
+    width: 24px;
+    color: #5c9f24;
+    margin-right: 4px;
+}
+
+.myStart{
+    color:rgb(255, 204, 0); 
+    font-size:16px
+}
+
+.comment{
+    color:rgb(68, 68, 68) ;
+    font-size:16px ;
+    font-weight:400;
+    display:inline-block;
+    margin-left:4px
+}
+
+.socialMedia{
+    color:rgb(68, 68, 68) ;
+    font-size:16px ;
+    font-weight:400 ; 
+    display:inline-block ;
+    margin-left:4px
+}
+
+.socialMediaIcon{
+    font-size:24px ;
+    font-weight:400 ; 
+    color:rgb(0, 76, 184) ; 
+    display:inline-block
+}
+

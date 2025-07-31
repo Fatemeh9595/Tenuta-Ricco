@@ -1,0 +1,52 @@
+.whyChooseUs{
+    background-color: #f1f1f1;
+}
+
+.myText{
+    color: #aaaaaa
+}
+
+.box{
+    padding: 50px 30px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    transition: all ease-in-out 0.3s;
+    position: relative;
+    border-radius: 5px;
+}
+
+.box:hover{
+  background-color: rgb(92, 159, 36);
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+
+.box:hover .myNumber{
+    color:white ;
+    font-size: 28px;
+    font-weight:bold;
+}
+
+.box:hover .myTitle{
+    font-weight:600 ; 
+    font-size:24px;
+    margin-top:20px;
+    margin-left: 0;
+    color: white;
+}
+
+.box:hover .myText{
+    color: white;
+}
+
+.myNumber{
+    color:#8ed851 ;
+    font-size: 28px;
+    font-weight:bold;
+}
+
+.myTitle{
+    font-weight:600 ; 
+    font-size:24px;
+    margin:20px;
+    margin-left: 0;
+}

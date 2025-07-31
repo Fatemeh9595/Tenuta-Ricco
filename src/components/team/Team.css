@@ -1,0 +1,19 @@
+.img-fluid{
+    width: 50%;
+}
+
+.member{
+    text-align: center;
+    background-color: white;
+    cursor: pointer;
+}
+
+.member-info{
+    display: none;
+}
+
+.member:hover + .member-info{
+    display: block;
+    background-color: red;
+    width: 300px;
+}

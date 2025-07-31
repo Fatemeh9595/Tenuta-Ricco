@@ -1,0 +1,14 @@
+.alloggioButton{
+    font-weight: 600;
+    border: none!important;
+    font-weight: normal!important;
+    padding: 8px;
+    margin: 5px;
+}
+
+.alloggioButton:hover{
+    background-color: rgb(92, 159, 36);
+    color: white!important;
+    padding: 8px;
+    border-radius: 5px;
+}

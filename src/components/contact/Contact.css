@@ -1,0 +1,31 @@
+.contatti{
+    color: rgb(92, 159, 36);
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.contatti-des{
+    margin-bottom: 50px;
+    color: rgb(68, 68, 68);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.contatti-icon{
+    font-size: 48px;
+    font-weight: 400;
+    font-weight: 400;
+    color:rgb(92, 159, 36);
+    margin-bottom: 20px;
+}
+
+.contact-option{
+    color: rgb(153, 153, 153);
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}

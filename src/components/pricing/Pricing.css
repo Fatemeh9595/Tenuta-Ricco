@@ -1,0 +1,67 @@
+.lastMinutesGrayBox{
+   background-color:#f7f7f7 ;
+   border-radius: 10px;
+   padding: 100px 30px 40px 30px ;
+   text-align: center;
+}
+
+.lastMinutesGreenBox{
+   background-color:#5c9f24 ;
+   border-radius: 10px;
+   padding: 50px 30px 40px 30px ;
+   color: white;
+   text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.lastMinutesH{
+   font-size:32px;
+   font-weight:700;
+   color:rgb(92, 159, 36);
+   text-align:center;
+   margin-bottom:20px;
+}
+
+.lastMinutesP{
+   text-align:center;
+   font-size:16px;
+   font-weight:400;
+   color:rgb(68, 68, 68);
+   margin-bottom:30px;
+}
+
+.discountedPrice{
+    font-size:42px ;
+    display:inline-block ;
+}
+
+.realPrice{
+    font-size:16px ;
+    font-weight:400 ; 
+}
+
+.lastMinutesGrayBox ul li , .lastMinutesGreenBox ul li {
+    margin: 10px;
+    padding-bottom: 9px;
+}
+
+.lastMinutesGrayBox ul li {
+    color: rgb(42, 42, 42);
+}
+
+.saveMoney{
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.phoneNumber{
+    color: #5c9f24 ;
+    text-decoration:none ;
+    font-size:16px ;
+    margin-left:6px ;
+}
+
