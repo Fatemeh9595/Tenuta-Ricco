@@ -1,6 +1,6 @@
 🌿Tenuta Ricco 
 
-Welcome to the digital front of Tenuta Ricco — a charming BnB project I built to bring a warm, immersive guest‑booking experience to life! From cozy rooms to poolside views, this website is your gateway to an unforgettable stay. 🏡🌞
+Welcome to the digital front of Tenuta Ricco, a charming BnB project I built to bring a warm, immersive guest‑booking experience to life! From cozy rooms to poolside views, this website is your gateway to an unforgettable stay. 🏡🌞
 
 What this project covers !
 
@@ -15,13 +15,11 @@ Modular and reusable components for easy maintainability
 
 🛠 Tech Stack :
 
-Here’s what powers the site
-
 React.js – for building dynamic, component‑driven UI ⚛️
 
-CSS3 / Styled Components (or CSS Modules) – for styling, responsiveness, and design consistency
+Styled Components (or CSS Modules) – for styling, responsiveness, and design consistency
 
-Bootstrap 5 (or similar UI framework) – for layout scaffolding, grid, and responsive behaviour
+Bootstrap 5 – for layout scaffolding, grid, and responsive behaviour
 
 React‑Router‑Dom – for client‑side routing and navigation between pages
 
