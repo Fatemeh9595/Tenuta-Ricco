@@ -12,13 +12,13 @@
 }
 
 .navbar-nav a:hover {
-  color: white;
+  color: rgb(104, 96, 96);
   border-bottom: 3px solid rgb(92, 159, 36);
   transition: border 0.2s ease-in-out;
 }
 
 .prenota {
-  color: white !important;
+  color: rgb(140, 134, 134) !important;
   border: 2px solid rgb(92, 159, 36)!important;
   border-radius: 4px;
 }
