@@ -108,9 +108,14 @@ function RoomPage({ roomIndex }) {
                 >
                   {pictures.map((pictureUrl, index) => (
                     <SwiperSlide key={index}>
-                      <img src={pictureUrl} alt={`Room picture ${index + 1}`} />
+                      <img
+                        src={pictureUrl}
+                        alt={room.title ? `${room.title} – slide ${index + 1}` : `Camera – slide ${index + 1}`}
+                        loading="lazy"
+                      />
                     </SwiperSlide>
                   ))}
+
                 </Swiper>
               )}
             </Col>

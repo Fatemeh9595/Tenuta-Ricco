@@ -12,7 +12,17 @@ function About(){
       <>
         <Container id="about">
            <Row>
-                <iframe className="mt-5 img-fluid" style={{height:"500px"}} src="https://www.youtube.com/embed/csOs2Via0zg" frameBorder="0"></iframe>
+                <iframe
+                  className="mt-5 img-fluid"
+                  style={{ height: "500px" }}
+                  src="https://www.youtube.com/embed/csOs2Via0zg"
+                  title="Video presentazione Tenuta Ricco"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                />
+
            </Row>
            <Row className="gy-4 mt-4">
                <Col className="col-lg-6">
